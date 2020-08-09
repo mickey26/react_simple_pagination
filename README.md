@@ -2,12 +2,13 @@
 ## React Simple Pagination
 
 In the project directory, you can run:
-### `git clone`
 
+### Clone Repository
+ ``git clone https://github.com/mickey26/react_simple_pagination.git``
 
-### `npm install`
+### Install dependencies using npm:
+ ```npm install```
 
-
-### `npm test`
-
+### Run application
+ ``npm start``
 
